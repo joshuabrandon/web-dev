@@ -1,0 +1,63 @@
+/* General Styles */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  font-family: "Helvetica";
+  font-size: 18px;
+  line-height: 2em;
+}
+
+h1, h2 {
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 100px;
+  margin: 0px;
+  color: white;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+/* Section Styles */
+
+header {
+  text-align: center;
+  background: black;
+  background-size: cover;
+  padding: 100px 0px;
+  margin-bottom: 5vh;
+}
+
+section {
+  padding: 5px 50px;
+}
+
+footer {
+  text-align: center;
+  background: black;
+  background-size: cover;
+  padding: 100px 0px;
+  margin-top: 5vh;
+}
+
+/* Anchor Styles */
+
+a {
+  text-decoration: none;
+  background: black;
+  color: white;
+  padding: 5px;
+}
+
+a:hover {
+  background: white;
+  color: black;
+}

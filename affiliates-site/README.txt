@@ -1,3 +1,5 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/karnoff/pen/BewYMW.
+#Affiliates Website 
 
- 
+This site can be found at http://savemoneyusecodes.com/
+
+Template created on CodePen: https://codepen.io/karnoff/pen/BewYMW.

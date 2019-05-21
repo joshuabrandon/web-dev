@@ -38,9 +38,10 @@ header {
 }
 
 section {
-  padding: 5px 50px;
+  padding: 5px 25px;
   margin: auto;
-  width: 80%;
+  width: 100%;
+  max-width: 980px;
 }
 
 footer {

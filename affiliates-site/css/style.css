@@ -19,6 +19,7 @@ h1 {
   font-size: 100px;
   margin: 0px;
   color: white;
+  line-height: 100px;
 }
 
 h2 {
@@ -38,6 +39,8 @@ header {
 
 section {
   padding: 5px 50px;
+  margin: auto;
+  width: 80%;
 }
 
 footer {

@@ -7,8 +7,6 @@
 body {
   margin: 0px;
   font-family: "Helvetica";
-  font-size: 18px;
-  line-height: 2em;
 }
 
 h1, h2 {
@@ -25,6 +23,11 @@ h1 {
 h2 {
   font-size: 40px;
   text-align: center;
+}
+
+p {
+  font-size: 22px;
+  line-height: 2em;
 }
 
 /* Section Styles */
